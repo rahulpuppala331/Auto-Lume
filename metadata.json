@@ -1,0 +1,6 @@
+{
+  "name": "AutoLume – Intelligent License Plate Recognition System",
+  "description": "Real-time Automatic Number Plate Recognition (ANPR/ALPR) system featuring an interactive OpenCV image processing pipeline, YOLO plate detection, OCR extraction, and multi-domain deployment (Traffic, Parking, Tolls, Hotlist).",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
